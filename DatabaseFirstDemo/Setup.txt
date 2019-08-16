@@ -1,0 +1,1 @@
+﻿pm> Scaffold-DbContext "Server=wooloongabba\sqlexpress;Database=Blogging;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer
